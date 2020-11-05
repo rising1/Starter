@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3b213cf-470f-4252-a13c-32d00694a674" name="Default Changelist" comment="" />
+    <list default="true" id="d3b213cf-470f-4252-a13c-32d00694a674" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Bird_Identifier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bird_Identifier/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604521073417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Working version of cut down bird predictor">
+      <created>1604521328389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604521328389</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -237,6 +246,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="105" y="10" width="1019" height="827" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27930683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
